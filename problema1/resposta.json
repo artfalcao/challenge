@@ -1,0 +1,66 @@
+[
+  {
+    "cep": "54767-330",
+    "logradouro": "Rua São João Batista",
+    "bairro": "Santa Mônica",
+    "cidade": "Camaragibe",
+    "estado": "PE"
+  },
+  {
+    "cep": "65065-610",
+    "logradouro": "Rua Quatro",
+    "bairro": "Turu",
+    "cidade": "São Luís",
+    "estado": "MA"
+  },
+  {
+    "cep": "53150-060",
+    "logradouro": "Rua Maria do Carmo Vieira",
+    "bairro": "Rio Doce",
+    "cidade": "Olinda",
+    "estado": "PE"
+  },
+  {},
+  {
+    "cep": "31870-360",
+    "logradouro": "Rua Santa Úrsula",
+    "bairro": "Ouro Minas",
+    "cidade": "Belo Horizonte",
+    "estado": "MG"
+  },
+  {
+    "cep": "66630-247",
+    "logradouro": "Quadra K",
+    "bairro": "Bengui",
+    "cidade": "Belém",
+    "estado": "PA"
+  },
+  {
+    "cep": "69312-143",
+    "logradouro": "Rua Myro Bessa Lima",
+    "bairro": "Jardim Floresta",
+    "cidade": "Boa Vista",
+    "estado": "RR"
+  },
+  {
+    "cep": "79074-290",
+    "logradouro": "Rua José Ferreira da Cunha",
+    "bairro": "Parque Residencial Iracy Coelho Netto",
+    "cidade": "Campo Grande",
+    "estado": "MS"
+  },
+  {
+    "cep": "69315-255",
+    "logradouro": "Rua DI-V",
+    "bairro": "Distr. Ind. Gov. Aquilino Mota Duarte",
+    "cidade": "Boa Vista",
+    "estado": "RR"
+  },
+  {
+    "cep": "87112-567",
+    "logradouro": "Rua dos Estados",
+    "bairro": "Jardim Castelo",
+    "cidade": "Sarandi",
+    "estado": "PR"
+  }
+]

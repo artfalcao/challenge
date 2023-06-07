@@ -1,0 +1,14 @@
+Instruções de Uso:
+- Para rodar as soluções seguintes deve se ter o node instalado localmente.
+## PROBLEMA 1
+- Para rodar a solução do problema 1, deve entrar na pasta 'problema1' e rodar o comando para baixar as dependências utilizadas: $ npm install
+- Em seguida, rode o comando para rodar o código: $ node solucao1.js
+- Após sua execução ele deve gerar um arquivo chamado respostas.json com a solução requerida
+
+## PROBLEMA 2
+- Para rodar a solução do problema 2, deve entrar na pasta 'problema2' e rodar o comando: $ node solucao2.js
+- Após sua execução, ele deve mostrar no console a solução requerida
+
+## PROBLEMA 3
+- Para rodar a solução do problema 2, deve entrar na pasta 'problema3' e rodar o comando: $ node solucao3.js
+- - Após sua execução, ele deve mostrar no console a solução requerida
